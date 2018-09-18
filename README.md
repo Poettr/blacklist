@@ -1,0 +1,2 @@
+# blacklist
+pihole adblock list
